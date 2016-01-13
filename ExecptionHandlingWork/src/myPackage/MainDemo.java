@@ -15,12 +15,7 @@ public class MainDemo {
 		Add add = new Add();
 		try{
 			add.add();
-			//hello
-			//hello
-			//hello
-			//hello
-			//hello
-			//hello
+		
 		}catch(Exception ex){
 			System.out.println(ex.getMessage());
 		}		
